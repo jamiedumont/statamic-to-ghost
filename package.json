@@ -1,0 +1,20 @@
+{
+  "name": "statamic_ghost_migration",
+  "version": "1.0.0",
+  "description": "Migrate Statamic 3 site using Bard to Ghost",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "type": "module",
+  "license": "ISC",
+  "dependencies": {
+    "@tryghost/html-to-mobiledoc": "^1.8.6",
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.11",
+    "dotenv": "^16.0.1",
+    "image-size": "^1.0.1",
+    "mobiledoc-kit": "^0.14.0"
+  }
+}

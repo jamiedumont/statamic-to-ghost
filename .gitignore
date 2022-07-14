@@ -1,0 +1,5 @@
+/node_modules/*
+output.json
+posts.json
+.DS_Store
+.env
